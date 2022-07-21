@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kachroo-cheena
-- 👀 I’m interested in Django, Python, HTML/CSS
+- 👀 I’m interested in Django, Python, Data Science
 - 🌱 I’m currently learning Django, ML, Data Science
 
 <!---
